@@ -1,14 +1,14 @@
-#setting username, information
+# setting username, information
 git config --global user.name "powei"
 git config --global user.email "abc1199281@gmail.com"
 
-#watch setting
+# watch setting
 git config --list
 # output:
 # user.name=powei
 # user.email=abc1199281@gmail.com
 
-#location of setting file: ~/.gitconfig
+# location of setting file: ~/.gitconfig
 cat ~/.gitconfig
 
 # change setting
