@@ -16,6 +16,10 @@ This is my basic note while learning git under linux environment. Git is very us
 	 - connection to remote git server.
 	 - case1: existing local folder
 	 - case2: clone remote folder
+ - Ch4: 
+	 - basic usage of branch (create, rename, delete).
+	 - checkout: change your current porision (head).
+	 - merge: making basic development flow.
 
 
 ## SSH Linux Key with CSSP Gitlab Server
