@@ -23,7 +23,7 @@ This is my basic note while learning git under linux environment. Git is very us
  1.  Go to 140.113.150.98:8081 and log in.
  2.  Go to  -- User Settings > SSH Keys
  3.  Open local terminal and type
-```python
+```
 	$ ssh-keygen -t rsa -C "example@cssp.cn.nctu.edu.tw"
 	#And then just press "enter" continuously till a small randomart image appears.
 	#+----[RSA 2048]-----+
