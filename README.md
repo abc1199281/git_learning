@@ -21,9 +21,10 @@ This is my basic note while learning git under linux environment. Git is very us
 	 - checkout: change your current porision (head).
 	 - merge: making basic development flow.
  - To quickly set your git environment, I recommend you to modify your user.name, user.email in ch1.sh and then run it as the followings,
+
 ```
 $sudo bash ch1.sh
-```
+``` 
 
 ## SSH Linux Key with CSSP Gitlab Server
 
@@ -34,14 +35,16 @@ $sudo bash ch1.sh
 $ssh-keygen -t rsa -C "example@cssp.cn.nctu.edu.tw"
 ```
 -	And then just press "enter" continuously till a small randomart image appears.
+```
 	+----[RSA 2048]-----+
 	|@+ooo  . .         |
 	|xx.. #        ..x8 |
 	+----[SHA256]-------+
+```
+-	Secondly, cat the public rsa key as follows. The key should begin with ssh-rsa and end with your email.
 ```	
 $cat ~/.ssh/id_rsa.pub
 ```
--	The key should begin with ssh-rsa and end with your email.
 
  4. Copy and paste all the key shown on your local terminal onto GitLab SSH Key Page (Opened in Step 2).
  
