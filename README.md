@@ -20,7 +20,7 @@ This is my basic note while learning git under linux environment. Git is very us
 	 - basic usage of branch (create, rename, delete).
 	 - checkout: change your current porision (head).
 	 - merge: making basic development flow.
-##### To quickly setting your git environment, I recommend you to modify your user.name, user.email in ch1.sh and then run it as the followings,
+ - To quickly setting your git environment, I recommend you to modify your user.name, user.email in ch1.sh and then run it as the followings,
 ```
     $sudo bash ch1.sh
 ```
