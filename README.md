@@ -24,7 +24,7 @@ This is my basic note while learning git under linux environment. Git is very us
 ```
     $sudo bash ch1.sh
 ```
-#
+
 ## SSH Linux Key with CSSP Gitlab Server
 
  1.  Go to 140.113.150.98:8081 and log in.
