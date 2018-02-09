@@ -42,6 +42,7 @@ $ssh-keygen -t rsa -C "example@cssp.cn.nctu.edu.tw"
 	+----[SHA256]-------+
 ```
 -	Secondly, cat the public rsa key as follows. The key should begin with ssh-rsa and end with your email.
+
 ```	
 $cat ~/.ssh/id_rsa.pub
 ```
