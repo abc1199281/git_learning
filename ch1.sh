@@ -9,7 +9,9 @@ git config --global alias.st status
 
 git config --global alias.l "log --oneline --graph"
 git config --global alias.ls 'log --graph --pretty=format:"%h <%an> %ar %s"'
+
 git config --global alias.pu "push -u origin"
+git config --global alias.cm 'commit -m'
 
 # watch setting
 git config --list
