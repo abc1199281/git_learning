@@ -13,6 +13,8 @@ git config --global alias.ls 'log --graph --pretty=format:"%h <%an> %ar %s"'
 git config --global alias.pu "push -u origin"
 git config --global alias.cm 'commit -m'
 
+git config --global alias.dfn "diff --cached HEAD"
+
 # watch setting
 git config --list
 
