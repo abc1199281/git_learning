@@ -52,3 +52,6 @@ $cat ~/.ssh/id_rsa.pub
  4. Copy and paste all the key shown on your local terminal onto GitLab SSH Key Page (Opened in Step 2).
  
 Well Done! After this setting, you no-longer need to enter password while pushing, cloning, or pulling your remote repository.
+
+## List of Video and slides.
+ 1. Introduction and Linux environment setup: [video](https://www.youtube.com/watch?v=w4zKQn1C8G4),[slide](https://drive.google.com/file/d/1roKBNieMDFcgOpbKiQTvusYIzLa5xaj3/view), 2018-03-22
