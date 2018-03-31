@@ -55,3 +55,4 @@ Well Done! After this setting, you no-longer need to enter password while pushin
 
 ## List of Video and slides.
  1. Introduction and Linux environment setup: [video](https://www.youtube.com/watch?v=w4zKQn1C8G4),[slide](https://drive.google.com/file/d/1roKBNieMDFcgOpbKiQTvusYIzLa5xaj3/view), 2018-03-22
+ 2. Window Environment setup and basic create new  repo: [slide](https://drive.google.com/file/d/1KLJ1sDag1AjfYxAv9Medf7v7j47pDOQO/view?usp=sharing), 2013-04-01.
